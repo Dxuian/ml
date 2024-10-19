@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # Path to add
-new_path = r'C:\Users\death\AppData\Roaming\Python\Python312\Scripts'
+new_path = r'c:\users\death\appdata\roaming\python\python312\site-packages'
 
 # Retrieve the current PATH environment variable
 current_path = os.environ.get('PATH', '')
