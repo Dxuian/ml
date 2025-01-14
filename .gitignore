@@ -3,3 +3,8 @@ mlc/machine-learning-specialization-andrew-ng
 resume/lgbm_modelmmm.txt
 resume/lgbm_modelrrr.txt
 resume/xgbrf_model.json
+C2/catboost_info/catboost_training.json
+C2/catboost_info/learn_error.tsv
+C2/catboost_info/learn/events.out.tfevents
+C2/catboost_info/learn_error.tsv
+C2/catboost_info/time_left.tsv
